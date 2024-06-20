@@ -23,14 +23,17 @@ Feel free to check out my repositories and don't hesitate to reach out if you'd 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-
 ## Stats
 
-![dennysis 's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennysis&show_icons=true&theme=dark&hide_border=true)
+![dennysis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennysis&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennysis&layout=compact&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennysis&layout=compact&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dennysis&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dennysis&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![TRZMIEL's Activity Graph](https://activity-graph.herokuapp.com/graph?username=dennysis&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!---
