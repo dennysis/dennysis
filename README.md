@@ -33,7 +33,8 @@ Feel free to check out my repositories and don't hesitate to reach out if you'd 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dennysis&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![dennysis's Activity Graph](https://activity-graph.herokuapp.com/graph?username=dennysis&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![dennysis's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dennysis&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <!---
