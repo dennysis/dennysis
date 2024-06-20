@@ -25,7 +25,7 @@ Feel free to check out my repositories and don't hesitate to reach out if you'd 
 
 ## Stats
 
-![dennysis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennysis&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![dennysis GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennysis&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennysis&layout=compact&theme=radical&hide_border=true)
 
