@@ -32,6 +32,9 @@ Feel free to check out my repositories and don't hesitate to reach out if you'd 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dennysis&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dennysis&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dennysis&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Quotes
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
