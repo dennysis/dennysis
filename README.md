@@ -38,3 +38,11 @@ Feel free to check out my repositories and don't hesitate to reach out if you'd 
 ## Quotes
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
+
+
+
