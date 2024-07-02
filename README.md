@@ -41,8 +41,7 @@ Feel free to check out my repositories and don't hesitate to reach out if you'd 
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 
-
+[![](https://visitcount.itsvg.in/api?id=dennysis&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
